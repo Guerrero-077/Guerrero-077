@@ -1,8 +1,8 @@
-### Hola👋
-Soy Brayan Santiago Guerrero Menez, aprendiz del Sena, Que siempre quiere estar al día con las nuevas tecnologías, con 6 meses de experiecias haciendo mis Practicas dutante el Tecnico en desarollo de software, trabaje con PHP, JS, MySQL. Siempre dispuesto a aprender nuevas Tecnologías para poder solucinar las necesidades de los usuarios.
+###¡Hola! 👋 
+Soy Brayan Santiago Guerrero Menez, aprendiz del SENA, quien siempre está al día con las nuevas tecnologías. Tengo 6 meses de experiencia realizando mis prácticas durante el Técnico en Desarrollo de Software, donde trabajé con PHP, JS y MySQL. Siempre estoy dispuesto a aprender nuevas tecnologías para poder solucionar las necesidades de los usuarios.
 
 ### Educaión 
-Tecnico en programación de Software
+Técnico en Programación de Software.
 
 <!--
 **Guerrero-077/Guerrero-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
