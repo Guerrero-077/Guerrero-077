@@ -1,5 +1,5 @@
 ### Hola👋
-Soy Brayan Santiago Guerrero Menez, aprendiz del Tecnologo en analisis y desarrollo de software.
+Soy Brayan Santiago Guerrero Menez, aprendiz del Sena, Que siempre quiere estar al día con las nuevas tecnologías, con 6 meses de experiecias haciendo mis pasantias
 
 ### Educaión 
 Tecnico en programación de Software
