@@ -1,5 +1,5 @@
 ### Hola👋
-Soy Brayan Santiago Guerrero Menez, aprendiz del Sena, Que siempre quiere estar al día con las nuevas tecnologías, con 6 meses de experiecias haciendo mis Practicas dutante el Tecnico en desarollo de software
+Soy Brayan Santiago Guerrero Menez, aprendiz del Sena, Que siempre quiere estar al día con las nuevas tecnologías, con 6 meses de experiecias haciendo mis Practicas dutante el Tecnico en desarollo de software, trabaje con PHP, JS, MySQL. Siempre dispuesto a aprender nuevas Tecnologías para poder solucinar las necesidades de los usuarios.
 
 ### Educaión 
 Tecnico en programación de Software
