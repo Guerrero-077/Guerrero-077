@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola👋
+Soy Brayan Santiago Guerrero Menez, aprendiz del Tecnologo en analisis y desarrollo de software.
+
+### Educaión 
+Tecnico en programación de Software
 
 <!--
 **Guerrero-077/Guerrero-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
