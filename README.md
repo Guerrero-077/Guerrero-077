@@ -1,4 +1,4 @@
-###¡Hola! 👋 
+### ¡Hola! 👋 
 Soy Brayan Santiago Guerrero Menez, aprendiz del SENA, quien siempre está al día con las nuevas tecnologías. Tengo 6 meses de experiencia realizando mis prácticas durante el Técnico en Desarrollo de Software, donde trabajé con PHP, JS y MySQL. Siempre estoy dispuesto a aprender nuevas tecnologías para poder solucionar las necesidades de los usuarios.
 
 ### Educaión 
