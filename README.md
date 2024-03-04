@@ -16,6 +16,7 @@
 - PHP
 - JS
 - MySQL
+- Python (En proceso)
 
  # 💬 Idiomas
  - Español (Nativo)
