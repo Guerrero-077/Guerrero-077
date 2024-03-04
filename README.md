@@ -2,7 +2,7 @@
 
 - 🔭 Soy Brayan Santiago Guerrero Mendez, aprendiz del SENA. Tengo 6 meses de experiencia realizando mis prácticas durante el Técnico en Programación de Software, donde trabajé con tecnologías como los son: PHP, JS y MySQL. Siempre estoy dispuesto a aprender sobre las nuevas tecnologías que van surgiendo para así poder solucionar las necesidades de mis usuarios.
 
-- Tengo como meta ser una programador Full-Satck, por medio de diversos curson y tecnología que me ayuden a ir adquiriendo este conocimiento. Soy un dimante en bruto que va tomando forma mediante su aprendizaje. Quiero terminar mi Tecnólogo de ADSO en el SENA y seguido de esto ingresar a la Universidad, para adquirir nuevas bases.
+- Tengo como meta ser una programador Full-Stack, por medio de diversos curson y tecnología que me ayuden a ir adquiriendo este conocimiento. Soy un dimante en bruto que va tomando forma mediante su aprendizaje. Quiero terminar mi Tecnólogo de ADSO en el SENA y seguido de esto ingresar a la Universidad, para adquirir nuevas bases.
 
 # 🌱 Educaión 
 - Técnico en Programación de Software.
