@@ -4,7 +4,7 @@
 
 - Tengo como meta ser una programador Full-Stack, por medio de diversos curson y tecnología que me ayuden a ir adquiriendo este conocimiento. Soy un dimante en bruto que va tomando forma mediante su aprendizaje. Quiero terminar mi Tecnólogo de ADSO en el SENA y seguido de esto ingresar a la Universidad, para adquirir nuevas bases.
 
-# 🌱 Educaión 
+# 🌱 Educación 
 - Técnico en Programación de Software.
 - Actualmente estoy realizando un Tecnólogo en Análisis y Desarrollo de Software.
 - Ingeniería en sistemas (próximamente) 
